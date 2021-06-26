@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rizkymoneter
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java, kotlin, solidify
+- 🌱 I’m currently learning java, kotlin, solidity blockchain
 - 💞️ I’m looking to collaborate on everything & everyone
 - 📫 How to reach me 
 
